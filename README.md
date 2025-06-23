@@ -1,4 +1,4 @@
-## Introduction ##
+## Introduction Version1.5.7 ##
 - An addon root hiding kernel patches and userspace module for KernelSU.
 
 - The userspace tool `ksu_susfs`, as well as the ksu module, require a susfs patched kernel to work.
